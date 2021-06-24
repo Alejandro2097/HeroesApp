@@ -10,7 +10,7 @@ import { MaterialModule } from '../material/material.module';
 @NgModule({
   declarations: [
     LoginComponent,
-    RegistroComponent
+    RegistroComponent,
   ],
   imports: [
     CommonModule,
